@@ -1,4 +1,4 @@
-# Google-Charts-Intro-Guide
+# Google-Charts-Intro-Guide📊📈
 ## by [Hitik Saini](https://hitik20.tech)
 Animated, customised and more... learn how to use them in your Web App. 
  
